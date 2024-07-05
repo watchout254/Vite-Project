@@ -5,7 +5,9 @@ function ListGroup() {
   const items = [
     'Nairobi',
     'Naivasha',
-    'Naks'
+    'Naks',
+    'Eldoret',
+    'Bungoma'
   ];
  
   return (
